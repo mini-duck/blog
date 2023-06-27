@@ -1,0 +1,114 @@
+.ant-list-header {
+    padding-left: 8px
+}
+.list-title {
+    font-size:1.5rem;
+    color: #1e90ff;
+    padding: 0 0.5rem;
+}
+.link-title {
+    color: #333;
+}
+.list-context, .list-introduction {
+    color:#666;
+    padding:.5rem;
+    height: 100px;
+    overflow: hidden;
+    text-overflow: ellipsis;
+}
+
+.ant-list-item {
+    /* background-color: rgb(220, 231, 216); */
+    padding: 20px;
+    margin-bottom: 10px;
+    border-radius: 3px;
+    box-shadow: inset 0 0 2px #0000001a;
+    /* height: 250px; */
+}
+/* .ant-list-item:hover {
+    box-shadow: 5px;
+} */
+.anticon-clock-circle {
+    padding-left: 10px
+}
+.anticon-fire {
+    padding-left: 15px;
+}
+.anticon-message {
+    padding-left: 20px;
+}
+.anticon-heart {
+    padding-left: 0px;
+}
+.list-icon {
+    color: #666;
+}
+.list-data {
+    color: #666;
+}
+.info {
+    display: flex;
+}
+.home-box {
+    height: 80px;
+    width: 100px;
+    text-align: center;
+    margin: 0 auto ;
+    background-color: rgb(215, 245, 255);
+    border-radius: 15px;
+    margin: 2px;
+}
+
+.home-infoname {
+    text-align: center;
+    height: 35px;
+    width: 100%;
+    padding-top: 10px;
+}
+
+.count-data {
+    text-align: center;
+    padding: 5px
+}
+
+ .introduction {
+    font-size: 1.1rem;
+}
+
+
+.introduce-html h1{
+    font-size:30px;
+}
+
+.introduce-html h2{
+    font-size:28px;
+    border-bottom: 1px solid #cbcbcb;
+}
+.introduce-html h3{
+    font-size:24px;
+}
+
+.introduce-html pre{
+    display: block;
+    background-color: #f0f0f0;
+    padding: 5px;
+    border-radius: 5px;
+}
+.introduce-html pre>code{
+    color: #000;
+    background-color: #f0f0f0;
+}
+.introduce-html code {
+    background-color: #fff5f5;
+    padding: 5px 10px;
+    border-radius: 5px;
+    margin: 0px 3px; 
+    color: #ff502c; 
+}
+.introduce-html blockquote{
+    border-left:4px solid #cbcbcb ;
+    padding: 10px 10px 10px 30px; 
+    background-color: #f8f8f8;
+    border-radius: 5px;
+    color: #444;
+}

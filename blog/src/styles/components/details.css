@@ -1,0 +1,135 @@
+.details-right {
+    background-color: rgb(220, 231, 216);
+    padding: .3rem;
+    border-radius: .3rem;
+    border: 1px solid #eee;
+    margin: 5px;
+}
+
+.nav-title {
+    text-align: center;
+    color: #888;
+    border-bottom: 1px solid rgb(30, 144, 255);
+
+}
+
+.bread-div {
+    padding: .5rem;
+    border-bottom: 1px solid #eee;
+    background-color: #e1f0ff;
+}
+
+.details-title {
+    font-size: 1.8rem;
+    text-align: center;
+    padding: 1rem;
+}
+
+.center {
+    text-align: center;
+}
+
+.details-introduction {
+    padding: 1.3rem;
+    padding-bottom: 0;
+    font-size: 1rem;
+}
+
+.details-content {
+    padding: 1.3rem;
+    font-size: 1rem;
+}
+
+code {
+    display: block;
+    background-color: #f3f3f3;
+    padding: .5rem !important;
+    overflow-y: auto;
+    font-weight: 300;
+    font-family: Menlo, monospace;
+    border-radius: .3rem;
+}
+
+.title-anchor {
+    color: #888 !important;
+    padding: 4px !important;
+    margin: 0rem !important;
+    height: auto !important;
+    line-height: 1.2rem !important;
+    font-size: .9rem !important;
+    border-bottom: 1px dashed #eee;
+}
+
+.active {
+    color: rgb(30, 144, 255) !important;
+}
+
+.details-data {
+    padding-left: 715px;
+}
+
+/* .ant-divider-inner-text {
+    
+} */
+
+.like {
+    cursor: pointer;
+}
+
+.input-info {
+    display: flex;
+    height: 46px;
+    padding-left: 15px;
+}
+
+.input-box {
+    background-color: beige;
+    border-radius: 14px;
+    display: flex;
+    height: 36px;
+    justify-content: space-between;
+    margin-right: 20px;
+    overflow: hidden;
+}
+
+.input-name {
+    align-items: center;
+    background-color: rgb(250, 250, 179);
+    display: flex;
+    font-size: 16px;
+    height: 100%;
+    justify-content: center;
+    user-select: none;
+    width: 56px;
+}
+
+.input-kuang {
+    flex: 1;
+    font-size: 14px;
+    height: 100%;
+    padding: 0 10px;
+    text-align: center;
+    width: 100%;
+    touch-action: manipulation;
+}
+input {
+    background: none;
+    border: none;
+    border-radius: 0;
+    outline: none;
+}
+
+.text-input {
+    width: 750px;
+    margin-left:15px;
+}
+button {
+    position: relative;
+    background-color: rgb(210, 245, 245);
+    border-radius: 14px;
+    bottom: 0;
+    cursor: pointer;
+    font-size:larger;
+    margin-left: 12px;
+    margin-bottom: 13px;
+}

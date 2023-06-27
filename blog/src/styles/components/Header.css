@@ -1,0 +1,36 @@
+.header {
+    background-color: #fff;
+    overflow: hidden;
+    border-bottom:1px solid #ccc;
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    position: relative;
+}
+.header-text {
+    font-size: 25px;
+    color: #999;
+    display: inline-block;
+    padding-left: 0.3rem;
+}
+.search {
+    left: 30px;
+    margin-left: 150px
+}
+.home {
+    /* line-height: 2.6rem; */
+    font-size:.7rem !important;
+    padding-left:1rem;
+    padding-right:1rem;
+    left: 100px
+}
+.admin {
+    font-size:.7rem !important;
+    padding-left:1rem;
+    padding-right:1rem;
+    left: 100px
+}
+.ant-input {
+    width: 650px;
+    margin-left: 50px;
+}

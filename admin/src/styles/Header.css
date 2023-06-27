@@ -1,0 +1,38 @@
+.headerBox {
+    background-color: #fff;
+    overflow: hidden;
+    border-bottom:1px solid #ccc;
+    height: 50px;
+    line-height: 50px;
+    width: 100%;
+    margin-bottom: 5px;
+    box-shadow: 0 0 10px rgb(0 0 0 / 30%);
+}
+/* .headerBox-text {
+    font-size: 25px;
+    color: #999;
+    display: inline-block;
+    padding-left: 0.3rem;
+} */
+.blogBtn {
+    width: 50px;
+    height: 40px;
+    /* right: 9px; */
+    top: 50%;
+}
+.logoutBtn {
+    width: 50px;
+    height: 40px;
+    /* right: 9px; */
+    top: 50%;
+}
+.anticon-home {
+    margin:0 auto;
+    font-size: 25px;
+    color: black;
+}
+.anticon-logout {
+    margin:0 auto;
+    font-size: 25px;
+    color: black;
+}
